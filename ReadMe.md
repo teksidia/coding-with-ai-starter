@@ -1,6 +1,8 @@
 # About
 
-## Introduction
+A basic starter template to use for structured development of applications using Agentic AI.
 
-## Running & Debugging Locally
+Follows my SaSSE (Semi-automated Senior Software Engineer) workflow.
+
+Designed to follow many development cycles and use guardrails and baby steps to allow careful, accurate, iterative development.
 
