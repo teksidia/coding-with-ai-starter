@@ -8,6 +8,12 @@ Designed to follow many development cycles and use guardrails and baby steps to 
 
 For information about development 'cycles' see [Cycles ReadMe](./docs/cycles/README.md)
 
+## Usage
+
+This is a template repository. Use it to start your own Agentic AI adventure.
+
+https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template
+
 ## Note
 
 This was created as a result of much experimentation trying to wrangle GitHub Copilot CLI to generate applications that get close to professional quality (almost).
